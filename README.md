@@ -1,4 +1,4 @@
-# PRACTIACS-ABOGABOT
+# PRACTICAS-ABOGABOT
 ## TOMA DE REQUIRIMIENTOS
 ![requerimientos.pdf](https://github.com/Max80318/PRACTIACS-ABOGABOT/files/10255844/requerimientos.pdf)
 
