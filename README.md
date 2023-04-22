@@ -15,7 +15,7 @@
 ### DISEÑO WEB
 ![WIFRAMES UIpng](https://user-images.githubusercontent.com/114278871/208345980-0099d2cf-e08c-4f81-af8d-afb0d843a409.png)
 
-### USUARUIO
+### USUARIO
 ![Dibujo1](https://user-images.githubusercontent.com/114278871/208346499-a1643b66-a92b-4aad-8d41-a7d804ad4583.png)
 readme.md
 ### ADMINISTRADOR
